@@ -27,12 +27,8 @@ Local-Business-Page
 │── style.css
 │── images/
 
-
 ## 📷 Screenshot
-(Add homepage screenshot here)
-
-After uploading screenshot in repo, add:
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_20260220_114952.jpg)
 
 ## 💻 How to Run Locally
 1. Clone this repository
