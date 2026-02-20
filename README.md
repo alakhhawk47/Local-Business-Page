@@ -4,7 +4,7 @@ A modern and responsive local business landing page built using HTML and CSS.
 This project represents a professional business website layout that showcases services, business details, and contact information with a clean user interface.
 
 ## 🚀 Live Demo
-🔗 https://local-bussiness-alakh.netlify.app/
+🔗 https://alakhhawk47.github.io/Local-Business-Page/
 
 ## 📌 Features
 - Modern business landing page
@@ -40,4 +40,7 @@ This project was created to practice building professional business landing page
 
 ## 👨‍💻 Author
 **Alakh Raj Singh**  
-GitHub: https://github.com/alakhhawk47
+B.Tech EC – JSS Academy of Technical Education, Noida
+
+## GitHub: 
+🔗 https://github.com/alakhhawk47
